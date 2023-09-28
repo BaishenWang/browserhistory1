@@ -5,6 +5,12 @@ body {
   background-color: Ivory;
 }
 
+navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 h1, h2 {
   font-family: "Oswald", sans-serif;
 }
@@ -12,4 +18,10 @@ h1, h2 {
 img {
   float: left;
   margin-right: 10px;
+}
+
+left {
+  float: left;
+  width:300px;
+  padding: lem;
 }
